@@ -10,6 +10,8 @@ I am trying to determine the 7-year survival of prostate cancer patients. A pati
 
 The set labeled ‘training_data’ has details of patients, the state of their cancer at time of diagnosis, and some information about the progression of their disease. I used those features to conduct my prognosis. 
 
+
+
 Conclusion
 
 Findings
